@@ -1,0 +1,2 @@
+injector==0.24.0
+xxhash==3.6.0
